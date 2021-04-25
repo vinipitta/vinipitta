@@ -5,7 +5,7 @@ Hi, I am Vinicius and I work as a Full Stack Software Engineer. I am completely 
 Find more at [www.viniciusaraujo.net](https://www.viniciusaraujo.net).
 
 ### My repositories
-I hope to be more active here on Git anytime soon. By now, if you want to check my coding style checkout my [Hacker Rank's Solutions repo](https://github.com/vinipitta/hackerrank/tree/master/src/net/viniciusaraujo/hackerrank). 
+If you want to check my coding style, checkout my [Hacker Rank's Solutions repo](https://github.com/vinipitta/hackerrank/tree/master/src/net/viniciusaraujo/hackerrank). 
 
 <!--
 **vinipitta/vinipitta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
